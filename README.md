@@ -5,8 +5,9 @@
 
 
 
-## Live video
-![2023-01-11 18-04-12](https://user-images.githubusercontent.com/92840891/211918561-8d9a37ad-921f-4ecb-935f-820d23715c5e.gif)
+## Screenshot
+![image](https://user-images.githubusercontent.com/92840891/212770179-0e6283a4-f7e6-4d53-b8f4-8c548af82875.png)
+
 
 
 ## Functions 👇🏼
