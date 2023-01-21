@@ -1,7 +1,7 @@
 # Ball generator
 
 
-[🔵 Live Project URL](weather-previsao.netlify.app)
+[🔵 Live Project URL](generator-balls.netlify.app)
 
 ----
 
