@@ -8,7 +8,7 @@
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/92840891/212770179-0e6283a4-f7e6-4d53-b8f4-8c548af82875.png)
 
----
+----
 
 ## Functions 👇🏼
 Algumas funcionalidades do projeto é que o cliente especifique a quantidade de objetos, por exemplo, se for digitado no input
